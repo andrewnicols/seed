@@ -20,6 +20,7 @@
   "config": {
     "allow-plugins": {
       "composer/installers": true,
+      "cweagans/composer-patches": true,
       "moodle/core-composer-scaffold": true
     }
   }
