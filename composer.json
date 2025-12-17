@@ -3,7 +3,7 @@
   "description": "Project Template to create a new Moodle Site",
   "type": "project",
   "require": {
-    "composer/installers": "dev-moodlepublic",
+    "moodle/composer-installer": "dev-main",
     "moodle/core-composer-scaffold": "dev-main",
     "moodle/moodle": "dev-composed"
   },
@@ -19,7 +19,7 @@
   ],
   "config": {
     "allow-plugins": {
-      "composer/installers": true,
+      "moodle/composer-installer": true,
       "cweagans/composer-patches": true,
       "moodle/core-composer-scaffold": true
     }
