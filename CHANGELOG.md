@@ -7,6 +7,10 @@ The format of this change log follows the advice given at [Keep a CHANGELOG](htt
 
 ## [Unreleased]
 
+### Changed
+
+- Updated the scaffold project name to `moodle/moodle-composer-scaffold`.
+
 ## [0.2.0] - 2025-12-18
 
 ### Added

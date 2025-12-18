@@ -4,7 +4,7 @@
   "type": "project",
   "require": {
     "moodle/composer-installer": "^1",
-    "moodle/core-composer-scaffold": "dev-main",
+    "moodle/moodle-composer-scaffold": "dev-main",
     "moodle/moodle": "dev-composed"
   },
   "extra": {
@@ -20,7 +20,7 @@
     "allow-plugins": {
       "moodle/composer-installer": true,
       "cweagans/composer-patches": true,
-      "moodle/core-composer-scaffold": true
+      "moodle/moodle-composer-scaffold": true
     }
   }
 }
