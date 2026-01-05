@@ -10,6 +10,7 @@ The format of this change log follows the advice given at [Keep a CHANGELOG](htt
 ## Added
 
 - Include cweagans/composer-patches as a default dependency
+- Provide default `.gitignore`
 
 ## [0.4.0] - 2025-12-19
 
