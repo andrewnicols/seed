@@ -7,30 +7,34 @@ The format of this change log follows the advice given at [Keep a CHANGELOG](htt
 
 ## [Unreleased]
 
+### Changed
+
+- Removed `cweagans/composer-patches` dependency.
+
 ## [1.0.2] - 2026-01-16
 
-## Added
+### Added
 
 - Added `auth.json` to `.gitignore`.
 
 ## [1.0.1] - 2026-01-06
 
-## Added
+### Added
 
 - Ignore the `/testdata` directory.
 
-## Changed
+### Changed
 
 - Correct paths for ignored directories.
 
 ## [1.0.0] - 2026-01-06
 
-## Added
+### Added
 
 - Include cweagans/composer-patches as a default dependency
 - Provide default `.gitignore`
 
-## Changed
+### Changed
 
 - Switch to released version of `moodle/moodle-composer-scaffold`.
 
